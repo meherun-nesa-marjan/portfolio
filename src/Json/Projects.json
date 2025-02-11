@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "LifePair Matrimonial Website",
+    "image": "https://i.ibb.co.com/1GR8SrkR/Screenshot-2025-02-05-124208.png",
+    "description": "A platform where user find their perfect match and hearts meet and dreams begin.",
+    "stack": [
+      "React",
+      "Tailwind",
+      "Flowbite",
+      "Firebase",
+      "JWT",
+      "MongoDB"
+    ],
+    "liveLink": "https://lifepair-client.web.app/",
+    "githubLink": "https://github.com/meherun-nesa-marjan/lifepair-client.git",
+    "details": "A fully functional matrimonial website built with React, Node.js, Express, and MongoDB. It allows users to create biodata, browse potential matches, and connect with each other. The admin panel provides insights into user activity, premium memberships, and completed marriages.",
+    "challenges": "Implementing secure authentication and optimizing performance.",
+    "improvements": "Adding a more search functionality in the biodata routes."
+  },
+  {
+    "id": 2,
+    "name": "FundNest Crowd Funding Application",
+    "image": "https://i.ibb.co.com/KpKtz4bH/Screenshot-2025-02-07-181542.png",
+    "description": "A platform to bring ideas to life through collective support and collaboration.",
+    "stack": [
+      "React",
+      "Tailwind",
+      "DaisyUI",
+      "Firebase"
+    ],
+    "liveLink": "https://my-new-assingment-10.web.app/",
+    "githubLink": "https://github.com/programming-hero-web-course2/b10-a10-client-side-meherun-nesa-marjan.git",
+    "details": "FundNest empowers creators and organizations to achieve their dreams with community support. Future plans include adding dark mode and improving accessibility.A platform to bring ideas to life through collective support and collaboration. FundNest empowers creators, entrepreneurs, and organizations to achieve their dreams with the help of a passionate community.",
+    "challenges": "Making animations smooth and improving SEO",
+    "improvements": "Implementing secure authentication and adding Jwt token"
+  },
+  {
+    "id": 3,
+    "name": "StudyCircle Online Group-Study Assignment",
+    "image": "https://i.ibb.co.com/zVFGQC0d/Screenshot-2025-02-05-132754.png",
+    "description": "A platform designed to help students manage their learning journey.",
+    "stack": [
+      "React",
+      "Tailwind",
+      "DaisyUI",
+      "Firebase",
+      "JWT",
+      "MongoDB"
+    ],
+    "liveLink": "https://my-new-assignment-11.firebaseapp.com/",
+    "githubLink": "https://github.com/programming-hero-web-course2/b10a11-client-side-meherun-nesa-marjan.git",
+    "details": "StudyCircle is an all-in-one platform designed to help students manage their learning journey. From organizing assignments to collaborating with peers, StudyCircle provides tools to boost productivity and streamline academic tasks.",
+    "challenges": "Building real-time updates efficiently.",
+    "improvements": "Adding different student, teachers, admin role and routes."
+  }
+]
